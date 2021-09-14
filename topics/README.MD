@@ -1,5 +1,8 @@
 # LeetCode - Topics
 
+- [Tutorial source](https://github.com/kaeducation/LeetCode_JS_Classic)
+- [Leetcode questions](https://github.com/haoel/leetcode)
+
 ## 1 Setup
 
 - install node
