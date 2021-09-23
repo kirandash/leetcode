@@ -1,5 +1,6 @@
 # Problem - LC125 - Is Valid Palindrome
 
+- Difficulty: Easy
 - URL: https://leetcode.com/problems/valid-palindrome/
 - Given a string s, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 
